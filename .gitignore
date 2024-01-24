@@ -1,0 +1,8 @@
+#python environment
+botenv/*
+*__pycache__*
+__pycache__/*
+*.pyc
+
+#credencials
+telegram_bot/telebot/credentials.py
